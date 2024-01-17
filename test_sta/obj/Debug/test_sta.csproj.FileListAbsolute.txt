@@ -1,0 +1,11 @@
+C:\Users\katon\source\repos\test_sta\test_sta\bin\Debug\test_sta.exe.config
+C:\Users\katon\source\repos\test_sta\test_sta\bin\Debug\test_sta.exe
+C:\Users\katon\source\repos\test_sta\test_sta\bin\Debug\test_sta.pdb
+C:\Users\katon\source\repos\test_sta\test_sta\obj\Debug\test_sta.Form1.resources
+C:\Users\katon\source\repos\test_sta\test_sta\obj\Debug\test_sta.Properties.Resources.resources
+C:\Users\katon\source\repos\test_sta\test_sta\obj\Debug\test_sta.csproj.GenerateResource.cache
+C:\Users\katon\source\repos\test_sta\test_sta\obj\Debug\test_sta.csproj.CoreCompileInputs.cache
+C:\Users\katon\source\repos\test_sta\test_sta\obj\Debug\test_sta.exe
+C:\Users\katon\source\repos\test_sta\test_sta\obj\Debug\test_sta.pdb
+C:\Users\katon\source\repos\test_sta\test_sta\obj\Debug\test_sta.Form2.resources
+C:\Users\katon\source\repos\test_sta\test_sta\obj\Debug\test_sta.csproj.AssemblyReference.cache
